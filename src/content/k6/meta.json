@@ -1,0 +1,334 @@
+{
+  "brand": {
+    "mark": "k6",
+    "title": "Load Testing",
+    "subtitle": "30-DAY · বাংলা"
+  },
+  "menuLabel": "দিন তালিকা",
+  "kicker": "COMPLETE COURSE · DAY 1–30",
+  "title": "k6 দিয়ে Load Testing শিখুন,",
+  "highlight": "শূন্য থেকে প্রোডাকশন পর্যন্ত।",
+  "ledes": [
+    "৩০ দিনের এই বাংলা কোর্সে **script লেখা** থেকে শুরু করে **API load test design, result analysis, bottleneck detection, Grafana monitoring এবং CI/CD integration** পর্যন্ত হাতে-কলমে শেখানো হয়েছে।",
+    "বর্তমান k6-এ scenarios, multiple executors, thresholds, custom metrics, browser testing, environment variables এবং Prometheus/Grafana output — সবই অফিসিয়ালভাবে সাপোর্টেড।"
+  ],
+  "noteLabel": "গুরুত্বপূর্ণ —",
+  "note": "নিজের application, staging environment, অথবা যেটিতে স্পষ্ট permission আছে সেটিতেই heavy load test করবেন। Public/third-party website-এ stress test করবেন না।",
+  "stats": [
+    {
+      "n": "30",
+      "l": "দিন"
+    },
+    {
+      "n": "04",
+      "l": "সপ্তাহ"
+    },
+    {
+      "n": "02",
+      "l": "বোনাস মডিউল"
+    },
+    {
+      "n": "1",
+      "l": "ফাইনাল প্রজেক্ট"
+    }
+  ],
+  "roadmapHeadings": [
+    "রোডম্যাপ",
+    "Course শেষ হলে আপনি পারবেন"
+  ],
+  "roadmap": "Performance Testing Concepts\r\n        ↓\r\nk6 Script Writing\r\n        ↓\r\nREST API Testing\r\n        ↓\r\nAuthentication Testing\r\n        ↓\r\nChecks + Thresholds\r\n        ↓\r\nScenarios\r\n        ↓\r\nRamping / Arrival Rate\r\n        ↓\r\nSmoke / Load / Stress / Spike / Soak\r\n        ↓\r\nReal User Journey\r\n        ↓\r\nCustom Metrics\r\n        ↓\r\nResult Analysis\r\n        ↓\r\nGrafana + Prometheus\r\n        ↓\r\nDocker\r\n        ↓\r\nCI/CD\r\n        ↓\r\nProduction-style Performance Test",
+  "footer": "k6 Load Testing — 30 Day Bangla Course · প্রতিটি দিনের কার্ড থেকে কনটেন্ট কপি করা যাবে \"Copy\" বাটনে ক্লিক করে।",
+  "weeks": [
+    {
+      "id": "week-1",
+      "label": "সপ্তাহ ১ · ফান্ডামেন্টালস",
+      "navLabel": "সপ্তাহ ১ · ফান্ডামেন্টালস",
+      "lessons": [
+        {
+          "id": "day-1",
+          "num": "01",
+          "badge": "Day 01",
+          "title": "Performance Testing Fundamentals",
+          "file": "day-1.md",
+          "bonus": false
+        },
+        {
+          "id": "day-2",
+          "num": "02",
+          "badge": "Day 02",
+          "title": "JavaScript for k6",
+          "file": "day-2.md",
+          "bonus": false
+        },
+        {
+          "id": "day-3",
+          "num": "03",
+          "badge": "Day 03",
+          "title": "k6 Install + First Test",
+          "file": "day-3.md",
+          "bonus": false
+        },
+        {
+          "id": "day-4",
+          "num": "04",
+          "badge": "Day 04",
+          "title": "VUs, Duration এবং sleep()",
+          "file": "day-4.md",
+          "bonus": false
+        },
+        {
+          "id": "day-5",
+          "num": "05",
+          "badge": "Day 05",
+          "title": "k6 Metrics বুঝুন",
+          "file": "day-5.md",
+          "bonus": false
+        },
+        {
+          "id": "day-6",
+          "num": "06",
+          "badge": "Day 06",
+          "title": "Checks",
+          "file": "day-6.md",
+          "bonus": false
+        },
+        {
+          "id": "day-7",
+          "num": "07",
+          "badge": "Day 07",
+          "title": "Thresholds",
+          "file": "day-7.md",
+          "bonus": false
+        }
+      ]
+    },
+    {
+      "id": "week-8",
+      "label": "সপ্তাহ ২ · API লোড টেস্টিং",
+      "navLabel": "সপ্তাহ ২ · API লোড টেস্টিং",
+      "lessons": [
+        {
+          "id": "day-8",
+          "num": "08",
+          "badge": "Day 08",
+          "title": "GET API Testing",
+          "file": "day-8.md",
+          "bonus": false
+        },
+        {
+          "id": "day-9",
+          "num": "09",
+          "badge": "Day 09",
+          "title": "POST Request",
+          "file": "day-9.md",
+          "bonus": false
+        },
+        {
+          "id": "day-10",
+          "num": "10",
+          "badge": "Day 10",
+          "title": "JSON Response Parsing",
+          "file": "day-10.md",
+          "bonus": false
+        },
+        {
+          "id": "day-11",
+          "num": "11",
+          "badge": "Day 11",
+          "title": "Authentication",
+          "file": "day-11.md",
+          "bonus": false
+        },
+        {
+          "id": "day-12",
+          "num": "12",
+          "badge": "Day 12",
+          "title": "Environment Variables",
+          "file": "day-12.md",
+          "bonus": false
+        },
+        {
+          "id": "day-13",
+          "num": "13",
+          "badge": "Day 13",
+          "title": "Groups & Tags",
+          "file": "day-13.md",
+          "bonus": false
+        },
+        {
+          "id": "day-14",
+          "num": "14",
+          "badge": "Day 14",
+          "title": "Test Lifecycle",
+          "file": "day-14.md",
+          "bonus": false
+        }
+      ]
+    },
+    {
+      "id": "week-15",
+      "label": "সপ্তাহ ৩ · ওয়ার্কলোড মডেলিং",
+      "navLabel": "সপ্তাহ ৩ · ওয়ার্কলোড মডেলিং",
+      "lessons": [
+        {
+          "id": "day-15",
+          "num": "15",
+          "badge": "Day 15",
+          "title": "Scenarios",
+          "file": "day-15.md",
+          "bonus": false
+        },
+        {
+          "id": "day-16",
+          "num": "16",
+          "badge": "Day 16",
+          "title": "Executors",
+          "file": "day-16.md",
+          "bonus": false
+        },
+        {
+          "id": "day-17",
+          "num": "17",
+          "badge": "Day 17",
+          "title": "Ramping VUs",
+          "file": "day-17.md",
+          "bonus": false
+        },
+        {
+          "id": "day-18",
+          "num": "18",
+          "badge": "Day 18",
+          "title": "Arrival Rate Testing",
+          "file": "day-18.md",
+          "bonus": false
+        },
+        {
+          "id": "day-19",
+          "num": "19",
+          "badge": "Day 19",
+          "title": "Smoke Test",
+          "file": "day-19.md",
+          "bonus": false
+        },
+        {
+          "id": "day-20",
+          "num": "20",
+          "badge": "Day 20",
+          "title": "Load Test",
+          "file": "day-20.md",
+          "bonus": false
+        },
+        {
+          "id": "day-21",
+          "num": "21",
+          "badge": "Day 21",
+          "title": "Stress + Spike + Soak",
+          "file": "day-21.md",
+          "bonus": false
+        }
+      ]
+    },
+    {
+      "id": "week-22",
+      "label": "সপ্তাহ ৪ · রিয়েল প্রজেক্ট ও অ্যানালাইসিস",
+      "navLabel": "সপ্তাহ ৪ · রিয়েল প্রজেক্ট ও অ্যানালাইসিস",
+      "lessons": [
+        {
+          "id": "day-22",
+          "num": "22",
+          "badge": "Day 22",
+          "title": "Real User Journey",
+          "file": "day-22.md",
+          "bonus": false
+        },
+        {
+          "id": "day-23",
+          "num": "23",
+          "badge": "Day 23",
+          "title": "Multiple User Behaviours",
+          "file": "day-23.md",
+          "bonus": false
+        },
+        {
+          "id": "day-24",
+          "num": "24",
+          "badge": "Day 24",
+          "title": "Test Data",
+          "file": "day-24.md",
+          "bonus": false
+        },
+        {
+          "id": "day-25",
+          "num": "25",
+          "badge": "Day 25",
+          "title": "Custom Metrics",
+          "file": "day-25.md",
+          "bonus": false
+        },
+        {
+          "id": "day-26",
+          "num": "26",
+          "badge": "Day 26",
+          "title": "Result Analysis",
+          "file": "day-26.md",
+          "bonus": false
+        },
+        {
+          "id": "day-27",
+          "num": "27",
+          "badge": "Day 27",
+          "title": "Grafana + Prometheus",
+          "file": "day-27.md",
+          "bonus": false
+        },
+        {
+          "id": "day-28",
+          "num": "28",
+          "badge": "Day 28",
+          "title": "Docker + k6",
+          "file": "day-28.md",
+          "bonus": false
+        },
+        {
+          "id": "day-29",
+          "num": "29",
+          "badge": "Day 29",
+          "title": "CI/CD + Automated Performance Gate",
+          "file": "day-29.md",
+          "bonus": false
+        },
+        {
+          "id": "day-30",
+          "num": "30",
+          "badge": "Day 30",
+          "title": "Final Real-World Project",
+          "file": "day-30.md",
+          "bonus": false
+        }
+      ]
+    },
+    {
+      "id": "week-extra",
+      "label": "অতিরিক্ত মডিউল",
+      "navLabel": "অতিরিক্ত",
+      "lessons": [
+        {
+          "id": "bonus-0",
+          "num": "＋",
+          "badge": "Extra",
+          "title": "Bonus — k6 Browser Testing",
+          "file": "bonus-0.md",
+          "bonus": true
+        },
+        {
+          "id": "bonus-1",
+          "num": "＋",
+          "badge": "Extra",
+          "title": "প্রতিদিন কীভাবে পড়বেন",
+          "file": "bonus-1.md",
+          "bonus": true
+        }
+      ]
+    }
+  ]
+}

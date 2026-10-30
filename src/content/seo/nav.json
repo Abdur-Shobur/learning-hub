@@ -1,0 +1,199 @@
+{
+  "lessonCount": 20,
+  "items": [
+    {
+      "type": "link",
+      "id": "intro",
+      "title": "SEO কীভাবে কাজ করে",
+      "sub": false
+    },
+    {
+      "type": "link",
+      "id": "roadmap",
+      "title": "৩০ দিনের Roadmap",
+      "sub": false
+    },
+    {
+      "type": "link",
+      "id": "keywords",
+      "title": "কোন Keywords গুরুত্বপূর্ণ",
+      "sub": false
+    },
+    {
+      "type": "group",
+      "title": "Week 1 — Fundamentals"
+    },
+    {
+      "type": "link",
+      "id": "w1-l1",
+      "title": "Google কীভাবে Index করে",
+      "sub": true
+    },
+    {
+      "type": "link",
+      "id": "w1-l2",
+      "title": "Keywords ও Search Intent",
+      "sub": true
+    },
+    {
+      "type": "link",
+      "id": "w1-l3",
+      "title": "Title, Meta, H1, H2",
+      "sub": true
+    },
+    {
+      "type": "link",
+      "id": "w1-l4",
+      "title": "Search Console সেটআপ",
+      "sub": true
+    },
+    {
+      "type": "link",
+      "id": "w1-l5",
+      "title": "নিজের সাইটে প্রয়োগ",
+      "sub": true
+    },
+    {
+      "type": "link",
+      "id": "w1-quiz",
+      "title": "Week 1 কুইজ",
+      "sub": true
+    },
+    {
+      "type": "group",
+      "title": "Week 2 — Technical SEO"
+    },
+    {
+      "type": "link",
+      "id": "w2-l1",
+      "title": "robots.txt, Sitemap, Canonical",
+      "sub": true
+    },
+    {
+      "type": "link",
+      "id": "w2-l2",
+      "title": "Next.js Metadata API",
+      "sub": true
+    },
+    {
+      "type": "link",
+      "id": "w2-l3",
+      "title": "Rendering ও Indexing",
+      "sub": true
+    },
+    {
+      "type": "link",
+      "id": "w2-l4",
+      "title": "Core Web Vitals",
+      "sub": true
+    },
+    {
+      "type": "link",
+      "id": "w2-l5",
+      "title": "Technical SEO Audit",
+      "sub": true
+    },
+    {
+      "type": "link",
+      "id": "w2-quiz",
+      "title": "Week 2 কুইজ",
+      "sub": true
+    },
+    {
+      "type": "group",
+      "title": "Week 3 — Content ও Local"
+    },
+    {
+      "type": "link",
+      "id": "w3-l1",
+      "title": "Keyword Research",
+      "sub": true
+    },
+    {
+      "type": "link",
+      "id": "w3-l2",
+      "title": "Competitor Analysis",
+      "sub": true
+    },
+    {
+      "type": "link",
+      "id": "w3-l3",
+      "title": "Service Pages ও Case Studies",
+      "sub": true
+    },
+    {
+      "type": "link",
+      "id": "w3-l4",
+      "title": "Internal Links ও Backlinks",
+      "sub": true
+    },
+    {
+      "type": "link",
+      "id": "w3-l5",
+      "title": "Google Business Profile",
+      "sub": true
+    },
+    {
+      "type": "link",
+      "id": "w3-quiz",
+      "title": "Week 3 কুইজ",
+      "sub": true
+    },
+    {
+      "type": "group",
+      "title": "Week 4 — AI Search ও Analytics"
+    },
+    {
+      "type": "link",
+      "id": "w4-l1",
+      "title": "ChatGPT crawler access",
+      "sub": true
+    },
+    {
+      "type": "link",
+      "id": "w4-l2",
+      "title": "Structured Data",
+      "sub": true
+    },
+    {
+      "type": "link",
+      "id": "w4-l3",
+      "title": "AI-সহায়ক Content",
+      "sub": true
+    },
+    {
+      "type": "link",
+      "id": "w4-l4",
+      "title": "Search Console দিয়ে পরিমাপ",
+      "sub": true
+    },
+    {
+      "type": "link",
+      "id": "w4-l5",
+      "title": "Final AI Search Audit",
+      "sub": true
+    },
+    {
+      "type": "link",
+      "id": "w4-quiz",
+      "title": "Week 4 কুইজ",
+      "sub": true
+    },
+    {
+      "type": "group",
+      "title": "টুলস ও সারাংশ"
+    },
+    {
+      "type": "link",
+      "id": "tools",
+      "title": "Paid SEO Tools",
+      "sub": false
+    },
+    {
+      "type": "link",
+      "id": "summary",
+      "title": "৪ সপ্তাহের সারাংশ",
+      "sub": false
+    }
+  ]
+}
